@@ -38,7 +38,7 @@ This will use intersection and shading routines in plain C (about ~2x slower).
 EXAMPLES :
 ----------
 
-To run the examples, you need the viewer executable in the test directory.
+To visualize OBJ files, you can use the viewer executable in the test directory.
 To run the viewer, type:
 
 cd build
